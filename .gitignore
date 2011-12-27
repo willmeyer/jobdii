@@ -1,0 +1,12 @@
+*.class
+*.jar
+.settings
+.project
+.classpath
+.svn
+.git
+target
+.idea
+*.iml
+*.ipr
+*.iws
