@@ -4,7 +4,6 @@
 .project
 .classpath
 .svn
-.git
 target
 .idea
 *.iml
